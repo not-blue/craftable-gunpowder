@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:gunpowder"
+    },
+    "title": "Craftable Gunpowder",
+    "description": "Craft gunpowder with sand, charcoal and magma blocks.",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:notblue",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

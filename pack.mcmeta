@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [
+      15,
+      99
+    ],
+    "description": "Hooray for renewable gunpowder!"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 34,
+          "max_inclusive": 41
+        },
+        "directory": "overlay_41"
+      },
+      {
+        "formats": {
+          "min_inclusive": 42,
+          "max_inclusive": 99
+        },
+        "directory": "overlay_48"
+      }
+    ]
+}
+}

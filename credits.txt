@@ -1,4 +1,4 @@
-Pack name:  
-Pack URL:   
+Pack name:  Craftable Gunpowder
+Pack URL:   https://modrinth.com/datapack/craftable-gunpowder
 Author:     Nicole / notblue / nicoleisnotblue
 Author URL: https://modrinth.com/user/notblue   

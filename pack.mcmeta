@@ -3,7 +3,7 @@
     "pack_format": 15,
     "supported_formats": [
       15,
-      99
+      999
     ],
     "description": "Hooray for renewable gunpowder!"
   },
@@ -18,7 +18,10 @@
         "directory": "overlay_48"
       },
       {
-        "formats": 57,
+        "formats": {
+          "min_inclusive": 57,
+          "max_inclusive": 999
+        },
         "directory": "overlay_57"
       }
     ]

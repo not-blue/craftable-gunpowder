@@ -1,4 +1,7 @@
 # Craftable Gunpowder
+
+_For Minecraft 1.20-1.21.8._
+
 Use sand, two charcoal and a magma block to craft four gunpowder.
 
 

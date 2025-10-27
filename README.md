@@ -1,4 +1,7 @@
 # Craftable Gunpowder
+
+_For 1.21.9-1.21.10._
+
 Use sand, two charcoal and a magma block to craft four gunpowder.
 
 

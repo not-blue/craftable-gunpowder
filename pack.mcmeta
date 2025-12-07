@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 15,
     "min_format": [88, 0],
-    "max_format": [88, 0],
+    "max_format": [95, 0],
     "description": "Hooray for renewable gunpowder!"
   }
 }

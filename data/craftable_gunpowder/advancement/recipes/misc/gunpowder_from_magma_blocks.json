@@ -4,7 +4,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "craftable_gunpowder:gunpowder"
+        "recipe": "craftable_gunpowder:gunpowder_from_magma_blocks"
       }
     },
     "has_charcoal": {
@@ -37,7 +37,7 @@
   ],
   "rewards": {
     "recipes": [
-      "craftable_gunpowder:gunpowder"
+      "craftable_gunpowder:gunpowder_from_magma_blocks"
     ]
   }
 }

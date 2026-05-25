@@ -3,5 +3,14 @@
     "min_format": [88, 0],
     "max_format": [999, 0],
     "description": "Hooray for renewable gunpowder!"
-  }
+  },
+	"overlays": {
+		"entries": [
+			{
+				"min_format": [106, 0],
+				"max_format": [999, 0],
+				"directory": "chaos_cubed"
+			}
+		]
+	}
 }

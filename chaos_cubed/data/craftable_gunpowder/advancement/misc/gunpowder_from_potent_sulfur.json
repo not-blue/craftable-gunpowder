@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "craftable_gunpowder:gunpowder"
+        "recipe": "craftable_gunpowder:gunpowder_from_potent_sulfur"
       },
       "trigger": "minecraft:recipe_unlocked"
     },
@@ -48,7 +48,7 @@
   ],
   "rewards": {
     "recipes": [
-      "craftable_gunpowder:gunpowder"
+      "craftable_gunpowder:gunpowder_from_potent_sulfur"
     ]
   }
 }

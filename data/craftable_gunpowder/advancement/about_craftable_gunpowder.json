@@ -4,13 +4,13 @@
       "id": "minecraft:gunpowder"
     },
     "title": "Craftable Gunpowder",
-    "description": "Use sand, charcoal and magma blocks for renewable gunpowder.",
+    "description": "Craft gunpowder using potent sulfur, bone meal and charcoal.",
     "show_toast": false,
     "announce_to_chat": false
   },
   "parent": "global:notblue",
   "criteria": {
-    "requirement": {
+    "tick": {
       "trigger": "minecraft:tick"
     }
   }
